@@ -1,3 +1,9 @@
+# Screenshot Sam
+
+This project is a fork of the project described below, with a couple of changes to try to use it to calculate Ad To Content ratio from screenshots. Follow the instructions below to install, and then take the notebook `run_on_ads.ipynb` for a spin.
+
+(As of right now it doens't really work very well. But hey, at least it's expensive.)
+
 # Language Segment-Anything
 
 Language Segment-Anything is an open-source project that combines the power of instance segmentation and text prompts to generate masks for specific objects in images. Built on the recently released Meta model, Segment Anything Model 2, and the GroundingDINO detection model, it's an easy-to-use and effective tool for object detection and image segmentation.
